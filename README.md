@@ -122,7 +122,6 @@ valine:
   pageSize: 10 # pagination size
 ```
 
-
 ### 标签页 Tags page
 
 > 添加一个标签页面，里面包含您网站中的所有标签。
@@ -208,7 +207,7 @@ Next 默认使用 `normal`. 下面是 `normal` 和 `night` 主题的预览:
 
 查看更多信息点击[Tomorrow 主题](https://github.com/chriskempson/tomorrow-theme)。
 
-## 配置 Configuration
+### 配置 Configuration
 
 NexT 的配置很少
 
@@ -237,5 +236,8 @@ fancybox: true
 since: 2013
 
 ```
+### 相册配置
+请参考博文：https://malizhi.cn/HexoAlbum/ 
+
 更多配置请详细查看`_config.yml`文件
 
