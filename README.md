@@ -2,14 +2,16 @@
 <p align="center">NexT 是一个高质量并且优雅的<a href="http://hexo.io">Hexo</a> 主题。这是精心制作做出来的 hexo 主题。</p>
 
 ## 预览界面
+#### 首页
 ![index](https://github.com/caozongpeng/github-static/blob/master/hexo-theme-next/index.png)
 
+#### 底部
 ![footer](https://github.com/caozongpeng/github-static/blob/master/hexo-theme-next/footer.png)
-
+#### 相册
 ![photos](https://github.com/caozongpeng/github-static/blob/master/hexo-theme-next/photos.png)
-
+#### 文章
 ![detail](https://github.com/caozongpeng/github-static/blob/master/hexo-theme-next/detail.png)
-
+#### 搜索
 ![search](https://github.com/caozongpeng/github-static/blob/master/hexo-theme-next/search.png)
 
 ## 安装 Installation
@@ -28,12 +30,6 @@ $ git clone git@github.com:caozongpeng/hexo-theme-next.git themes/next
 **3.** 在 **hexo 根目录下** 的配置文件`_config.yml`里设置主题:
 
     theme: next
-
-### Bugs
-对于那些遇到 **Error: Cannot find module 'hexo-util'** [问题](https://github.com/iissnan/hexo-theme-next/issues/1490)的人, 请检查你的NPM 版本.
-
-- `版本 > 3`: 如果仍然不行的话，请移除 `node_modules` 文件 然后重新安装，使用 `npm install`命令。
-- `版本 < 3`: 请通过`npm install --save-dev hexo-util`命令添加`hexo-util`到你的站点包依赖里
 
 ## 更新 Update
 
