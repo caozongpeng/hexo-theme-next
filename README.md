@@ -1,5 +1,5 @@
 ## Next
-<p align="center">NexT 是一个高质量并且优雅的<a href="http://hexo.io">Hexo</a> 主题。这是精心制作做出来的 hexo 主题。</p>
+<p>NexT 是一个高质量并且优雅的<a href="http://hexo.io">Hexo</a> 主题。这是精心制作做出来的 hexo 主题。</p>
 
 如果你对此主题非常喜欢，欢迎`Star` & `Fork`，非常感谢。
 
