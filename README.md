@@ -104,6 +104,25 @@ duoshuo:
 disqus_shortname: your-disqus-shortname
 ```
 
+或者
+
+```yml
+# Valine.
+# You can get your appid and appkey from https://leancloud.cn
+# more info please open https://valine.js.org
+valine:
+  enable: true
+  appid:  # your leancloud application appid
+  appkey:  # your leancloud application appkey
+  notify: false # mail notifier , https://github.com/xCss/Valine/wiki
+  verify: false # Verification code
+  placeholder: 正确填写邮箱, 才能及时收到回复哦♪(^∇^*) # comment box placeholder
+  avatar: mm # gravatar style
+  guest_info: nick,mail,link # custom comment header
+  pageSize: 10 # pagination size
+```
+
+
 ### 标签页 Tags page
 
 > 添加一个标签页面，里面包含您网站中的所有标签。
